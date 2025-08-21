@@ -10,14 +10,14 @@ function Contact() {
               <div className="contact-icon">📧</div>
               <div className="contact-info">
                 <h4>Email</h4>
-                <p>dharmraj.choudhary@email.com</p>
+                <p>Radheradhe9772@gmail.com</p>
               </div>
             </div>
             <div className="contact-item">
               <div className="contact-icon">📱</div>
               <div className="contact-info">
                 <h4>Phone</h4>
-                <p>+91 XXXXX XXXXX</p>
+                <p>+91 97728 52233</p>
               </div>
             </div>
             <div className="contact-item">
